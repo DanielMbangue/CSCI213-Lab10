@@ -8,4 +8,5 @@ which extends the abstract Vehicle class. The Car class contains the following:
 * the toString method
 * the equals method
 * a copy method
+
 :grinning:
